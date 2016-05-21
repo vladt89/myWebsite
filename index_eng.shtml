@@ -1,71 +1,118 @@
 <html>
 <head>
-<meta http-equiv="Content-Type" content="text/html; charset=windows-1251">
-<title>Vladimir Tikhomirov website</title>
-<link rel="stylesheet" href="style.css" type="text/css">
-<script language="JavaScript" src="mm_menu_eng.js"></script>
+    <meta http-equiv="Content-Type" content="text/html; charset=windows-1251">
+    <title>Vladimir Tikhomirov website</title>
+    <link rel="stylesheet" href="style.css" type="text/css">
+    <script language="JavaScript" src="mm_menu_eng.js"></script>
 </head>
 <body class="bodyCl">
 <script language="JavaScript1.2">mmLoadMenus();</script>
 <table class="T1" border="0" cellpadding="0" cellspacing="0">
-  <tr>
-    <!--#include virtual="ssi/header_eng.html"-->
-  </tr>
-  <tr>    
-    <!--#include virtual="ssi/menu_eng.html"-->    
-    <td valign="top">		
-		<ul style=" line-height:2;">
-		    <li><b><i>NEW!</i></b> During the summer 2015 I went to the hiking trip through the great country Norway.
-				Report with the pictures and videos you could find <a href="norway2015_eng.html">here</a>.
-				<p align="center">
-				<table>
-					<tr>
-						<td><iframe width="300" height="169" src="https://www.youtube.com/embed/8mdub1ZbHYk" frameborder="0" allowfullscreen></iframe></td>
-						<td><iframe width="300" height="169" src="https://www.youtube.com/embed/T4FKQlxJU94" frameborder="0" allowfullscreen></iframe></td>
-						<td><iframe width="300" height="169" src="https://www.youtube.com/embed/yzB5GkuRhFU" frameborder="0" allowfullscreen></iframe></td>
-					</tr>
-				</table>
-			</li>
-			<li> I still continue playing table tennis and in the end of 2014 even got a place in TOP-50 of Finland.
-			Moreover, at the moment I try to learn Finnish language and I am interested in creation different videos with my GoPro camera
-			(it is really cool thing, my friends). Unfortunately, still cannot find a specific topic that's why I have all the different ones:
-			something from travelling, something from different sports, including table tennis, water polo, and from different events, music ones
-			and some others. Decided to make a small compulation for you, so don't hesitate to like, subscribe and comment - would be glad to
-			hear some wishes and advices!
-			<p align="center">
-			<table>
-			<tr>
-				<td><iframe width="300" height="169" src="https://www.youtube.com/embed/CVTyjSXPqiM?list=PLmHe8Q-WpPQxxJf05QeFY-nklfg1yny_j" frameborder="0" allowfullscreen></iframe></td>
-				<td><iframe width="300" height="169" src="https://www.youtube.com/embed/hpTHV5ft4Q4" frameborder="0" allowfullscreen></iframe></td>
-				<td><iframe width="300" height="169" src="https://www.youtube.com/embed/NV2-Lnxno9o?list=PLmHe8Q-WpPQz3UtKDQvja89biLZ0rBnx3" frameborder="0" allowfullscreen></iframe></td>		
-			</tr>	
-			</table>
-			</li>
-			<li>In August 2014 I have visited Spain - what can I say - it is awesome! The report with
-			photos and videos is <a href="spain2014_eng.html">here</a>.
-			<p align="center"><iframe width="400" height="225" src="//www.youtube.com/embed/g1isOeSAuA8?list=PLmHe8Q-WpPQxygxQ6XAvFyMYzuOlnOzo1" frameborder="0" allowfullscreen></iframe></p>
-			</li>
-			<li>In June 2014 I participated in Tahko MTB competitions for the 3 time. You can have look to my <a href="tahkomtb2014_eng.html">
-			pictures and results</a> from this nice event.</li>
-			<li>In April 2014 for the first time in my life I went to Asia and visited Japan. You can read and check 
-			the pictures from <a href="japan_eng.html">here</a>. However, you have a possibility even to watch
-			<a href="japan_eng.html#video">completed video</a> which is almost like a movie!
-			<iframe align="right" width="400" height="225" src="//www.youtube.com/embed/67vshpfd6m8?list=PLmHe8Q-WpPQz81CP_3qDiM_La31UmzgBV" frameborder="0" allowfullscreen></iframe>
-			</li>			
-			<li>The English version of the website is not so full yet, but the information still grows. However, you can at least check the
-			pictures from different events.</li>
-        	<li>Pictures and story about the Carpatian adventure from the summer 2011 are added. <a href="Karpatian.html">Read</a>. Under the story there are the pictures.</li>
-        	<li>The photo section was edited. Pictures from <a href="Moscow_11_eng.html">Moscow</a>, where I was in March 2011.</li>
-         	<li>In June I presented my diploma with the topic "Spectral image compression using different clustering methods".
-         	Pictures from <a href="diploma_eng.html">thesis defence</a> and University <a href="final_party.html">final party</a>.</li>
-			<li>Some very interesting videos from the Universities life were added. Don't miss it! <a href="acustic_nf.html">Watch</a>!</li>
-			<li>One of the greatest trips in my life - <a href="England.html">England</a>.
-			<li>HAPPY NEW YEAR, MY FRIENDS!!!<br>
-				<p align="center"><iframe src="http://vkontakte.ru/video_ext.php?oid=1785395&id=158773171&hash=b1fad2520ace066c" width="607" height="360" frameborder="0"></iframe></p>
-			</li>
-		</ul>
-	</td>
-  </tr>
+    <tr>
+        <!--#include virtual="ssi/header_eng.html"-->
+    </tr>
+    <tr>
+        <!--#include virtual="ssi/menu_eng.html"-->
+        <td valign="top">
+            <ul style=" line-height:2;">
+                <li><b><i>NEW!</i></b> During the summer 2015 I went to the hiking trip through the great country
+                    Norway.
+                    Report with the pictures and videos you could find <a href="norway2015_eng.html">here</a>.
+                    <p align="center">
+                    <table>
+                        <tr>
+                            <td>
+                                <iframe width="300" height="169" src="https://www.youtube.com/embed/8mdub1ZbHYk"
+                                        frameborder="0" allowfullscreen></iframe>
+                            </td>
+                            <td>
+                                <iframe width="300" height="169" src="https://www.youtube.com/embed/T4FKQlxJU94"
+                                        frameborder="0" allowfullscreen></iframe>
+                            </td>
+                            <td>
+                                <iframe width="300" height="169" src="https://www.youtube.com/embed/yzB5GkuRhFU"
+                                        frameborder="0" allowfullscreen></iframe>
+                            </td>
+                        </tr>
+                    </table>
+                </li>
+                <li> I still continue playing table tennis and in the end of 2014 even got a place in TOP-50 of Finland.
+                    Moreover, at the moment I try to learn Finnish language and I am interested in creation different
+                    videos with my GoPro camera
+                    (it is really cool thing, my friends). Unfortunately, still cannot find a specific topic that's why
+                    I have all the different ones:
+                    something from travelling, something from different sports, including table tennis, water polo, and
+                    from different events, music ones
+                    and some others. Decided to make a small compulation for you, so don't hesitate to like, subscribe
+                    and comment - would be glad to
+                    hear some wishes and advices!
+                    <p align="center">
+                    <table>
+                        <tr>
+                            <td>
+                                <iframe width="300" height="169"
+                                        src="https://www.youtube.com/embed/CVTyjSXPqiM?list=PLmHe8Q-WpPQxxJf05QeFY-nklfg1yny_j"
+                                        frameborder="0" allowfullscreen></iframe>
+                            </td>
+                            <td>
+                                <iframe width="300" height="169" src="https://www.youtube.com/embed/hpTHV5ft4Q4"
+                                        frameborder="0" allowfullscreen></iframe>
+                            </td>
+                            <td>
+                                <iframe width="300" height="169"
+                                        src="https://www.youtube.com/embed/NV2-Lnxno9o?list=PLmHe8Q-WpPQz3UtKDQvja89biLZ0rBnx3"
+                                        frameborder="0" allowfullscreen></iframe>
+                            </td>
+                        </tr>
+                    </table>
+                </li>
+                <li>In August 2014 I have visited Spain - what can I say - it is awesome! The report with
+                    photos and videos is <a href="spain2014_eng.html">here</a>.
+                    <p align="center">
+                        <iframe width="400" height="225"
+                                src="//www.youtube.com/embed/g1isOeSAuA8?list=PLmHe8Q-WpPQxygxQ6XAvFyMYzuOlnOzo1"
+                                frameborder="0" allowfullscreen></iframe>
+                    </p>
+                </li>
+                <li>In June 2014 I participated in Tahko MTB competitions for the 3 time. You can have look to my <a
+                        href="tahkomtb2014_eng.html">
+                    pictures and results</a> from this nice event.
+                </li>
+                <li>In April 2014 for the first time in my life I went to Asia and visited Japan. You can read and check
+                    the pictures from <a href="japan_eng.html">here</a>. However, you have a possibility even to watch
+                    <a href="japan_eng.html#video">completed video</a> which is almost like a movie!
+                    <iframe align="right" width="400" height="225"
+                            src="//www.youtube.com/embed/67vshpfd6m8?list=PLmHe8Q-WpPQz81CP_3qDiM_La31UmzgBV"
+                            frameborder="0" allowfullscreen></iframe>
+                </li>
+                <li>The English version of the website is not so full yet, but the information still grows. However, you
+                    can at least check the
+                    pictures from different events.
+                </li>
+                <li>Pictures and story about the Carpatian adventure from the summer 2011 are added. <a
+                        href="Karpatian.html">Read</a>. Under the story there are the pictures.
+                </li>
+                <li>The photo section was edited. Pictures from <a href="Moscow_11_eng.html">Moscow</a>, where I was in
+                    March 2011.
+                </li>
+                <li>In June I presented my diploma with the topic "Spectral image compression using different clustering
+                    methods".
+                    Pictures from <a href="diploma_eng.html">thesis defence</a> and University <a
+                            href="final_party.html">final party</a>.
+                </li>
+                <li>Some very interesting videos from the Universities life were added. Don't miss it! <a
+                        href="acustic_nf.html">Watch</a>!
+                </li>
+                <li>One of the greatest trips in my life - <a href="England.html">England</a>.
+                <li>HAPPY NEW YEAR, MY FRIENDS!!!<br>
+                    <p align="center">
+                        <iframe src="http://vkontakte.ru/video_ext.php?oid=1785395&id=158773171&hash=b1fad2520ace066c"
+                                width="607" height="360" frameborder="0"></iframe>
+                    </p>
+                </li>
+            </ul>
+        </td>
+    </tr>
 </table>
 </body>
 </html>
