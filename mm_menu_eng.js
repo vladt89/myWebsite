@@ -860,6 +860,14 @@ function mmLoadMenus() {
     mm_menu_0803103406_0_7.menuBorder=1;
     mm_menu_0803103406_0_7.menuLiteBgColor='#99FF00';
     mm_menu_0803103406_0_7.menuBorderBgColor='#777777';
+
+   window.mm_menu_0803103406_0_8 = new Menu("2015",171,18,"Courier New, Courier, monospace",12,"#003333","#009966","#FCFAF9","#000099","center","middle",3,0,500,-5,7,true,true,true,0,true,true);
+   	mm_menu_0803103406_0_8.addMenuItem("Norway","location='norway2015_eng.html'");
+    mm_menu_0803103406_0_8.hideOnMouseOut=true;
+    mm_menu_0803103406_0_8.bgColor='#3300FF';
+    mm_menu_0803103406_0_8.menuBorder=1;
+    mm_menu_0803103406_0_8.menuLiteBgColor='#99FF00';
+    mm_menu_0803103406_0_8.menuBorderBgColor='#777777';
 	 
   window.mm_menu_0803103406_0 = new Menu("root",60,18,"Courier New, Courier, monospace",12,"#003333","#009966","#FCFAF9","#000099","center","middle",3,0,500,-5,7,true,true,true,0,true,true);
   mm_menu_0803103406_0.addMenuItem(mm_menu_0803103406_0_1);
@@ -869,6 +877,7 @@ function mmLoadMenus() {
   mm_menu_0803103406_0.addMenuItem(mm_menu_0803103406_0_5);
   mm_menu_0803103406_0.addMenuItem(mm_menu_0803103406_0_6);
   mm_menu_0803103406_0.addMenuItem(mm_menu_0803103406_0_7);
+  mm_menu_0803103406_0.addMenuItem(mm_menu_0803103406_0_8);
    mm_menu_0803103406_0.hideOnMouseOut=true;
    mm_menu_0803103406_0.childMenuIcon="arrows.gif";
    mm_menu_0803103406_0.bgColor='#3300FF';
