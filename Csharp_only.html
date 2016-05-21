@@ -1,0 +1,40 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=windows-1251"/>
+<title>Untitled Document</title>
+<script>
+var time;
+var x=0;
+function run()
+{
+	time = new Date();
+	document.frm.edit.value =  time.getMinutes() + ":" + time.getSeconds();
+	x++;
+	
+		if(x<=10)
+		{
+			document.bgColor='red';
+		}	
+		else	
+		{
+			document.bgColor='green';
+			if(x==20)
+			{
+				x=0;
+			}
+		}
+	
+	setTimeout('run()', 1000);
+}
+</script>
+</head>
+
+<body bgcolor="#3366FF" onload="run()" id="bod">
+<h1><a href="#" onclick="document.bgColor='red'">zenit - champion!!!</a></h1>
+<form name="frm">
+<input name="edit" size="10" value=""/>
+</form>
+<input type="button" value="red" onclick="document.bgColor='red'" />
+</body>
+</html>

@@ -1,0 +1,5 @@
+AddType text/html .htm .html .shtm .shtml .sht 
+AddHandler server-parsed .htm .html .shtml .sht .shtm 
+# Do not remove this line, otherwise mod_rewrite rules will stop working
+RewriteBase /
+
