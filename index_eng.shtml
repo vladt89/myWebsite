@@ -15,8 +15,15 @@
         <!--#include virtual="ssi/menu_eng.html"-->
         <td valign="top">
             <ul style=" line-height:2;">
-                <li><b><i>NEW!</i></b> During the summer 2015 I went to the hiking trip through the great country
-                    Norway.
+                <li><b><i>NEW!</i></b> In the middle of May of year 2017 I took part in Hero Race for the first time! It was really great!
+                    <p align="center">
+                    <table>
+                        <tr>
+                            <iframe width="300" height="169" src="https://www.youtube.com/embed/mB7GOqP2gDk" frameborder="0" allowfullscreen></iframe>
+                        </tr>
+                    </table>
+                </li>
+                <li>During the summer 2015 I went to the hiking trip through the great country Norway.
                     Report with the pictures and videos you could find <a href="norway2015_eng.html">here</a>.
                     <p align="center">
                     <table>
